@@ -2,8 +2,8 @@
 
 **A polished local two-player tic-tac-toe — X vs O, same device, zero backend.**
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://PLACEHOLDER.vercel.app)
-[![Vercel](https://img.shields.io/badge/deploy-Vercel-black)](https://PLACEHOLDER.vercel.app)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://tic-tac-toe-tau-umber.vercel.app)
+[![Vercel](https://img.shields.io/badge/deploy-Vercel-black)](https://tic-tac-toe-tau-umber.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 Tap cells. Chase three in a row. Keep score for the session. That’s the whole game — and it looks good doing it.
@@ -57,7 +57,7 @@ tic-tac-toe/
 
 Import the repo on Vercel (or run `npx vercel --prod`). No build step — root `index.html` is the entry.
 
-Live demo: https://PLACEHOLDER.vercel.app
+Live demo: https://tic-tac-toe-tau-umber.vercel.app
 
 ## License
 
